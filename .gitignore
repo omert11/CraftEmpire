@@ -1,0 +1,7 @@
+*.iml
+.gradle
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9E588CF9-3D01-3CDB-E428-406844D97CD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StoryBox.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WorldRotation.cs" Line="10" Column="17" />
+      <File FileName="Assets/Scripts/MainButtons.cs" Line="14" Column="8" />
+      <File FileName="Assets/Scripts/Finder.cs" Line="228" Column="96" />
+      <File FileName="Assets/Scripts/SelectButtons.cs" Line="104" Column="23" />
+      <File FileName="Assets/Scripts/CameraPositions.cs" Line="45" Column="115" />
+      <File FileName="Assets/Scripts/CanvasUpdater.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/ResourcesInner.cs" Line="160" Column="57" />
+      <File FileName="Assets/Scripts/GameButtons.cs" Line="19" Column="28" />
+      <File FileName="Assets/Scripts/SkillTree.cs" Line="52" Column="75" />
+      <File FileName="Assets/Scripts/ResourceLobber.cs" Line="13" Column="29" />
+      <File FileName="Assets/Scripts/WorkButtons.cs" Line="16" Column="115" />
+      <File FileName="Assets/Scripts/WorldButtons.cs" Line="17" Column="68" />
+      <File FileName="Assets/Scripts/Craftter.cs" Line="99" Column="26" />
+      <File FileName="Assets/Scripts/StoryBox.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>gameData</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
